@@ -26,27 +26,31 @@ Replace this dummy text with a clear and concise description of what you expecte
 #
 
 #### Screenshots
-Optional - If applicable, replace this dummy text with screenshot(s) to help explain your problem. Otherwise, just remove the screenshots section totally from this issue body.
+If applicable, replace this dummy text with screenshot(s) to help explain your problem.
+> Otherwise, just remove the screenshots section totally from this issue body.
 
 #
 
-**Desktop (please complete the following information):**
+#### On what desktop device or OS does this happen?
  - OS: [e.g. mac OS, windows etc.]
  - Browser [e.g. chrome, safari etc.]
  - Version [e.g. 22]
+ > If desktop device is not applicable in your case, you can remove this section totally from this issue body.
 
  #
 
-**Smartphone (please complete the following information):**
+ #### On what Smartphone device or OS does this happen?
  - Device: [e.g. iPhone14, android etc.]
  - OS: [e.g. iOS 8.1 etc.]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
+> If smartphone device is not applicable in your case, you can remove this section totally from this issue body.
 
  #
 
 #### Additional context
-Optional - If applicable, replace this dummy text with any other context about the problem. Otherwise, just remove the additional context section totally from this issue body.
+If applicable, replace this dummy text with any other context about the problem.
+> Otherwise, just remove the additional context section totally from this issue body.
 
 #
 

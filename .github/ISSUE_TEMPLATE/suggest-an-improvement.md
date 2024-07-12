@@ -24,7 +24,8 @@ Replace this dummy text with a brief description of the improvement you wish to 
 #
 
 #### Additional context
-Optional - If applicable, replace this dummy text with any other context about your improvement suggestion. Otherwise, just remove the additional context section totally from this issue body.
+Optional - If applicable, replace this dummy text with any other context about your improvement suggestion. 
+> Otherwise, just remove the additional context section totally from this issue body.
 
 #
 
