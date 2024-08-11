@@ -1,5 +1,5 @@
 # @collabo-community/issue-tickets-ready-for-fixing
-Issue reports found in this repository are those that have been sorted, cleaned up, well defined, and deemed "ready to be worked on" for Collabo Community maintainers and contributors. This repository is connected to the Collabo Community project board. Find "ready for fixing" issue tickets to take on through the project board here: [Collabo Community Project Board](https://github.com/orgs/collabo-community/projects/1?pane=info).
+Issue reports found in this repository are those that have been sorted, cleaned up, well defined, and deemed "ready to be worked on" for Collabo Community maintainers and contributors. This repository is connected to our project board. Find "ready for fixing" issue tickets to take on through the project board here: [Collabo Community Project Board](https://github.com/orgs/collabo-community/projects/1?pane=info).
 
 #
 
