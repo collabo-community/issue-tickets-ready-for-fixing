@@ -3,5 +3,6 @@ Issue reports found in this repository are those that have been sorted, cleaned 
 
 #
 
-If you notice any issues with any of our projects/products, do not submit issues to this repository. Instead, you should submit issues you find to the [product-issues-report](https://github.com/collabo-community/product-issue-reports) repository.
+> [!IMPORTANT]  
+> If you notice any issues with any of our projects/products, do not submit issues to this repository. Instead, you should submit issues you find to the [product-issues-report](https://github.com/collabo-community/product-issue-reports) repository.
 
