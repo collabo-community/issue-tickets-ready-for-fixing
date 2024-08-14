@@ -1,9 +1,9 @@
 #### This pull request makes the following changes
 
 > [!IMPORTANT]  
-> Remove this alert notice and supply this crucial information to help reviewers understand your submission better. If the issue ticket is on GitHub, follow the direction below to link your issue ticket to this pull request. If the issue ticket is not on GitHub, Replace the part after the word "Fixes" with the ticket link.
+> Remove this alert notice and supply this crucial information to help reviewers understand your submission better.
 
-* Fixes collabo-community/put-repo-name-where-the-GitHub-issue-is-located-here#putTheGitHubIssueNumberHere
+* Fixes collabo-community/issue-tickets-ready-for-fixing#putTheGitHubIssueNumberHere
 
 #
 
@@ -20,7 +20,10 @@
 
 #### Testing checklist
 
-Replace this dummy text with the testing checklist from the issue this pull request fixes (use checkboxes similar to how it's done in the **General checklist** above).
+Note (to contributor taking on this task assignment): Add the testing checklist below (without this note) to your pull request when submitting your fix. This will guide (you and) the contributors who will review your fix to know what is important to check or test for.
+
+- [ ] The important notice and github issue linking has been updated for the pull request template.
+- [ ] I certify that I ran my checklist
 
 #
 
